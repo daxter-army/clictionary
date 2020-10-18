@@ -1,5 +1,5 @@
 # clictionary
-## A cli based dictionary tool, that can present you with the meaning of your any desired english word, right in the terminal
+## A cli based dictionary tool, that can present you with the meaning of any english word of your choice, right in the terminal
 
 ### packages required
 * requests
