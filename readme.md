@@ -1,4 +1,4 @@
-# CLICTIONARY
+# clictionary
 ## A cli based dictionary tool, that can present you with the meaning of your any desired english word, right in the terminal
 
 ### packages required
